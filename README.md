@@ -1,1 +1,1 @@
-#hello world
+尊创静态模板
